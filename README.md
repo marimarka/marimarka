@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marimara
-- 👀 I’m interested in java
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on golang developer contract job
+- 👀 I’m interested in java and flutter
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on java or flutter developer contract job
 - 📫 How to reach me. Just message me marina.paberzze@gmail.com
 
 <!---
