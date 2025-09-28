@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.emmea.visita.prod",
+      "sha256_cert_fingerprints": [
+        "40:8c:19:e7:3c:a7:20:1d:00:23:f2:ef:c6:b0:6a:56:8d:bd:06:84:e3:72:db:e7:12:f7:a7:85:6e:ed:d2:6d" 
+      ]
+    }
+  }
+]
